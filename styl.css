@@ -1,0 +1,24 @@
+img{width: 100px;
+}
+header{display: flex;
+justify-content: space-around;
+align-items: center;}
+
+.real{display: flex;
+list-style-type: none;}
+
+li{padding: 5px;}
+a{background-color: red;
+font-weight: bold;font-size: 20px;
+text-decoration: none;
+}
+a:hover{background: black;
+text-decoration: underline;}
+hr{width: 70%;}
+
+body{
+    background-image: url(gmy3.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
